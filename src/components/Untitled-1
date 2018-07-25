@@ -1,0 +1,44 @@
+{
+    "sprite":
+    {
+        "icon_width":"300",
+        "icon_height":"300",
+        "url":"https:\/\/drmtn6ub2ixu8.cloudfront.net\/images\/product-menu\/sprites\/product-menu-5b5747d91aa43.png"
+    },
+    "categories":[
+        {
+            "name":
+            {
+                "en":"Fragrance",
+                "es":"Fragancia"
+            },
+            "subcategories":
+            [
+                {
+                    "name":{
+                        "en":"SIGNATURE SCENTS",
+                        "es":"FRAGANCIA YOUNIQUE"
+                    },
+                    "products":[
+                        {
+                            "sku":"US-13001-01",
+                            "name":"PASSIONATELY YOURS, ME\u2122"
+                        },
+                        {
+                            "sku":"US-13001-02",
+                            "name":"DREAMING OF YOU, ME\u2122"
+                        },
+                        {
+                            "sku":"US-13001-03",
+                            "name":"YOURS AND ONLY YOURS, ME\u2122"
+                        }
+                    ],
+                    "ui_column":0,
+                    "icon_url":"https:\/\/bcallahan.younique-dev.io\/universal\/img\/shop\/product_landing\/category_fragrance.png",
+                    "is_sets":false,
+                    "is_collections":false
+                }
+            ]
+        }
+    ]
+}'
